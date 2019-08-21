@@ -1,0 +1,169 @@
+﻿  复制了 0 个文件
+  stdafx.cpp
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/mat.hpp(1965): warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+  CCNF_patch_expert.cpp
+  LandmarkDetectorModel.cpp
+  LandmarkDetectorFunc.cpp
+  LandmarkDetectorParameters.cpp
+  LandmarkDetectorUtils.cpp
+  LandmarkDetectionValidator.cpp
+  Patch_experts.cpp
+  PAW.cpp
+src\LandmarkDetectorModel.cpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+src\CCNF_patch_expert.cpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+src\LandmarkDetectionValidator.cpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+src\Patch_experts.cpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+src\LandmarkDetectorUtils.cpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+src\LandmarkDetectorParameters.cpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+src\PAW.cpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+src\LandmarkDetectorFunc.cpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectionValidator.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectionValidator.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectorParameters.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorParameters.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\Patch_experts.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Patch_experts.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\PAW.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\PAW.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectorFunc.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorFunc.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\CCNF_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\CCNF_patch_expert.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectorModel.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorModel.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectorUtils.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorUtils.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\SVR_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Patch_experts.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectorParameters.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorFunc.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorModel.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorUtils.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PAW.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectionValidator.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectorUtils.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorFunc.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorModel.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorFunc.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectorUtils.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\PAW.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorModel.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\PAW.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\CCNF_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Patch_experts.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectorUtils.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\CCNF_patch_expert.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorModel.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\CCNF_patch_expert.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PDM.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Patch_experts.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorParameters.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Patch_experts.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectorUtils.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectionValidator.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorModel.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectionValidator.cpp)
+  PDM.cpp
+src\PDM.cpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\PDM.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\PDM.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorParameters.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\PDM.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectorUtils.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\PDM.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorModel.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\PDM.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectorUtils.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Patch_experts.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorModel.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Patch_experts.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PDM.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorModel.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorParameters.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorModel.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\Patch_experts.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorModel.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\SVR_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorModel.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PDM.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorUtils.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorParameters.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorUtils.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\Patch_experts.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorUtils.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\SVR_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorUtils.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PDM.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\PAW.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorParameters.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\PAW.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\Patch_experts.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\PAW.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\SVR_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\PAW.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PDM.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorFunc.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\Patch_experts.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorFunc.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\SVR_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorFunc.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\CCNF_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorModel.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\CCNF_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorUtils.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PDM.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\CCNF_patch_expert.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorParameters.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\CCNF_patch_expert.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\CCNF_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\PAW.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\Patch_experts.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\CCNF_patch_expert.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\SVR_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\CCNF_patch_expert.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\CCNF_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorFunc.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectionValidator.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Patch_experts.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PAW.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Patch_experts.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectionValidator.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorUtils.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PAW.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorUtils.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectionValidator.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorModel.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectionValidator.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\PAW.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PAW.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorModel.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectionValidator.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\CCNF_patch_expert.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PAW.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\CCNF_patch_expert.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectionValidator.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorFunc.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PAW.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorFunc.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PDM.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectionValidator.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorParameters.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectionValidator.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\Patch_experts.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectionValidator.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\SVR_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectionValidator.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\CCNF_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectionValidator.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\Patch_experts.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\PDM.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\SVR_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\PDM.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\CCNF_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\PDM.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectorUtils.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\LandmarkDetectorModel.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectionValidator.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\PDM.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PAW.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\PDM.cpp)
+  SVR_patch_expert.cpp
+src\SVR_patch_expert.cpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\SVR_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_patch_expert.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectorUtils.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_patch_expert.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorModel.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_patch_expert.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PDM.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_patch_expert.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorParameters.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_patch_expert.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\Patch_experts.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_patch_expert.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\CCNF_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_patch_expert.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectionValidator.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_patch_expert.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PAW.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_patch_expert.cpp)
+  LandmarkDetector.vcxproj -> C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\Release\LandmarkDetector.lib
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\clm-z.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\clm_general.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\clm_wild.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\clnf_general.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\clnf_wild.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\haarAlign.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\main_clm-z.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\main_clm_general.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\main_clm_wild.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\main_clnf_general.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\main_clnf_wild.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\tris_66.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\tris_68.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\tris_68_full.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\detection_validation\validator_general_66.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\detection_validation\validator_general_68.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\model_eye\clnf_left_synth.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\model_eye\clnf_right_synth.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\model_eye\main_clnf_synth_left.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\model_eye\main_clnf_synth_right.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\model_eye\patch_experts\ccnf_patches_1.00_synth_lid_.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\model_eye\patch_experts\ccnf_patches_1.50_synth_lid_.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\model_eye\patch_experts\left_ccnf_patches_1.00_synth_lid_.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\model_eye\patch_experts\left_ccnf_patches_1.50_synth_lid_.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\model_eye\pdms\pdm_28_eye_3D_closed.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\model_eye\pdms\pdm_28_l_eye_3D_closed.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\model_inner\clnf_inner.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\model_inner\main_clnf_inner.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\model_inner\patch_experts\ccnf_patches_1.00_inner.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\model_inner\pdms\pdm_51_inner.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\patch_experts\ccnf_patches_0.25_general.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\patch_experts\ccnf_patches_0.25_wild.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\patch_experts\ccnf_patches_0.35_general.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\patch_experts\ccnf_patches_0.35_wild.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\patch_experts\ccnf_patches_0.5_general.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\patch_experts\ccnf_patches_0.5_wild.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\patch_experts\ccnf_patches_1_wild.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\patch_experts\depth_patches_0.25.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\patch_experts\depth_patches_0.35.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\patch_experts\depth_patches_0.5.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\patch_experts\intensity_patches_0.25.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\patch_experts\intensity_patches_0.35.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\patch_experts\intensity_patches_0.5.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\patch_experts\svr_patches_0.25_general.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\patch_experts\svr_patches_0.25_wild.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\patch_experts\svr_patches_0.35_general.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\patch_experts\svr_patches_0.35_wild.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\patch_experts\svr_patches_0.5_general.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\patch_experts\svr_patches_0.5_wild.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\pdms\In-the-wild_aligned_PDM_68.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\pdms\Multi-PIE_aligned_PDM_66.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\model\pdms\Multi-PIE_aligned_PDM_68.txt
+  复制了 52 个文件
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\classifiers\haarcascade_frontalface_alt.xml
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\classifiers\haarcascade_frontalface_alt2.xml
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\classifiers\haarcascade_frontalface_alt_tree.xml
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\classifiers\haarcascade_frontalface_default.xml
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\classifiers\haarcascade_profileface.xml
+  复制了 5 个文件

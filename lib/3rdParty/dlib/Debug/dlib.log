@@ -1,0 +1,6 @@
+﻿  C:\Users\Rosie\Desktop\OpenFace\OpenFace\OpenFace-master\lib\3rdParty\tbb\bin\x86\v140\tbb_debug.dll
+  复制了 1 个文件
+  source.cpp
+c:\users\rosie\desktop\openface\openface\openface-master\lib\3rdparty\dlib\include\dlib\all\../threads/threaded_object_extension.cpp(32): warning C4297: 'dlib::threaded_object::~threaded_object': function assumed not to throw an exception but does
+  c:\users\rosie\desktop\openface\openface\openface-master\lib\3rdparty\dlib\include\dlib\all\../threads/threaded_object_extension.cpp(32): note: destructor or deallocator has a (possibly implicit) non-throwing exception specification
+  dlib.vcxproj -> C:\Users\Rosie\Desktop\OpenFace\OpenFace\OpenFace-master\Debug\dlib.lib

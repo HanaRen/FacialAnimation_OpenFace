@@ -1,0 +1,10 @@
+﻿  复制了 0 个文件
+  LandmarkDetectorUtils.cpp
+c:\users\rosie\desktop\openface\openface\openface-master\lib\local\landmarkdetector\include\Patch_experts.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\rosie\desktop\openface\openface\openface-master\lib\local\landmarkdetector\include\SVR_patch_expert.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\rosie\desktop\openface\openface\openface-master\lib\local\landmarkdetector\include\CCNF_patch_expert.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\rosie\desktop\openface\openface\openface-master\lib\local\landmarkdetector\include\LandmarkDetectionValidator.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\rosie\desktop\openface\openface\openface-master\lib\local\landmarkdetector\include\PAW.h : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+  LandmarkDetector.vcxproj -> C:\Users\Rosie\Desktop\OpenFace\OpenFace\OpenFace-master\Debug\LandmarkDetector.lib
+  复制了 0 个文件
+  复制了 0 个文件

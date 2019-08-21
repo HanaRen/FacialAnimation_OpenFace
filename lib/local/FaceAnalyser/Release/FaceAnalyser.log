@@ -1,0 +1,200 @@
+﻿  复制了 0 个文件
+  GazeEstimation.cpp
+  SVM_dynamic_lin.cpp
+  SVM_static_lin.cpp
+  SVR_dynamic_lin_regressors.cpp
+  SVR_static_lin_regressors.cpp
+  FaceAnalyser.cpp
+  Face_utils.cpp
+src\SVR_static_lin_regressors.cpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+src\GazeEstimation.cpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+src\SVM_dynamic_lin.cpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+src\SVM_static_lin.cpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+src\FaceAnalyser.cpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+src\SVR_dynamic_lin_regressors.cpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\include\SVM_dynamic_lin.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_dynamic_lin.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\include\FaceAnalyser.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\faceanalyser\include\SVR_dynamic_lin_regressors.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\include\SVR_static_lin_regressors.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_static_lin_regressors.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\include\SVM_static_lin.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_static_lin.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\include\SVR_dynamic_lin_regressors.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_dynamic_lin_regressors.cpp)
+src\Face_utils.cpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\include\Face_utils.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Face_utils.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkCoreIncludes.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Face_utils.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorModel.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Face_utils.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/mat.hpp(1965): warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_dynamic_lin_regressors.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/mat.hpp(1965): warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_static_lin.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/mat.hpp(1965): warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_dynamic_lin.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/mat.hpp(1965): warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/mat.hpp(1965): warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_static_lin_regressors.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/mat.hpp(1965): warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Face_utils.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/mat.hpp(1965): warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\GazeEstimation.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_dynamic_lin_regressors.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_dynamic_lin.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_static_lin.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_static_lin_regressors.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_dynamic_lin_regressors.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_static_lin.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_dynamic_lin.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_static_lin_regressors.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Face_utils.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/persistence.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\GazeEstimation.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_static_lin.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_dynamic_lin_regressors.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_dynamic_lin.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_static_lin_regressors.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkCoreIncludes.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_static_lin.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkCoreIncludes.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_dynamic_lin_regressors.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorModel.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_static_lin.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorModel.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_dynamic_lin_regressors.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkCoreIncludes.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_dynamic_lin.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorModel.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_dynamic_lin.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkCoreIncludes.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_static_lin_regressors.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\faceanalyser\include\SVR_static_lin_regressors.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorModel.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_static_lin_regressors.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\faceanalyser\include\SVM_static_lin.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\faceanalyser\include\SVM_dynamic_lin.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkCoreIncludes.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorModel.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Face_utils.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\GazeEstimation.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Face_utils.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\3rdParty\OpenCV3.1\include\opencv2/core/utility.hpp : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\GazeEstimation.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\include\GazeEstimation.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\GazeEstimation.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkCoreIncludes.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\GazeEstimation.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorModel.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\GazeEstimation.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PDM.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_dynamic_lin_regressors.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorParameters.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_dynamic_lin_regressors.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\Patch_experts.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_dynamic_lin_regressors.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\SVR_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_dynamic_lin_regressors.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PDM.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_dynamic_lin.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorParameters.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_dynamic_lin.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\Patch_experts.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_dynamic_lin.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\SVR_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_dynamic_lin.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\CCNF_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_dynamic_lin_regressors.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PDM.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_static_lin.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorParameters.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_static_lin.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\Patch_experts.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_static_lin.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\SVR_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_static_lin.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\CCNF_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_dynamic_lin.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\CCNF_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_static_lin.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PDM.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorParameters.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\Patch_experts.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\SVR_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PDM.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_static_lin_regressors.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorParameters.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_static_lin_regressors.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\Patch_experts.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_static_lin_regressors.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\SVR_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_static_lin_regressors.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PDM.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Face_utils.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorParameters.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Face_utils.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectionValidator.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_dynamic_lin_regressors.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PAW.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_dynamic_lin_regressors.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\Patch_experts.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Face_utils.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\SVR_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Face_utils.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\CCNF_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectionValidator.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_dynamic_lin.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PAW.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_dynamic_lin.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\CCNF_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_static_lin_regressors.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\CCNF_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Face_utils.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectionValidator.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_static_lin.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PAW.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_static_lin.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectionValidator.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PAW.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectionValidator.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_static_lin_regressors.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PAW.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_static_lin_regressors.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PDM.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\GazeEstimation.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorParameters.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\GazeEstimation.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\Patch_experts.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\GazeEstimation.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\SVR_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\GazeEstimation.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectionValidator.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Face_utils.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PAW.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Face_utils.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\CCNF_patch_expert.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\GazeEstimation.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorFunc.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_dynamic_lin_regressors.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectorUtils.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_dynamic_lin_regressors.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorFunc.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_dynamic_lin.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectorUtils.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_dynamic_lin.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorFunc.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_static_lin.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectorUtils.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVM_static_lin.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectionValidator.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\GazeEstimation.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\PAW.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\GazeEstimation.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorFunc.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectorUtils.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorFunc.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_static_lin_regressors.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectorUtils.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\SVR_static_lin_regressors.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorFunc.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Face_utils.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectorUtils.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\Face_utils.cpp)
+c:\users\rosie\desktop\openface-master\openface-master\lib\local\landmarkdetector\include\LandmarkDetectorFunc.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\GazeEstimation.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\LandmarkDetector\include\LandmarkDetectorUtils.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\GazeEstimation.cpp)
+C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\include\Face_utils.h : warning C4819: 檔案含有無法在目前字碼頁 (936) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失 (正在編譯原始程式檔 src\FaceAnalyser.cpp)
+  FaceAnalyser.vcxproj -> C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\Release\FaceAnalyser.lib
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\AU_all_best.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\AU_all_static.txt
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_10_dynamic.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_10_static.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_12_dynamic.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_12_static.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_14_dynamic.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_14_static.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_15_dynamic.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_15_static.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_17_dynamic.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_17_static.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_1_dynamic.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_1_static.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_20_dynamic.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_20_static.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_23_dynamic.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_23_static.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_25_dynamic.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_25_static.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_26_dynamic.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_26_static.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_28_dynamic.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_28_static.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_2_dynamic.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_2_static.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_45_dynamic.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_45_static.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_4_dynamic.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_4_static.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_5_dynamic.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_5_static.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_6_dynamic.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_6_static.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_7_dynamic.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_7_static.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_9_dynamic.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svm_combined\AU_9_static.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_10_static_intensity_comb.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_12_static_intensity_comb.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_14_static_intensity.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_15_dynamic_intensity_comb.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_15_static_intensity_comb.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_17_dynamic_intensity_comb.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_17_static_intensity_comb.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_1_dynamic_intensity_comb.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_1_static_intensity.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_20_dynamic_intensity.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_20_static_intensity.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_23_dynamic_intensity_comb.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_23_static_intensity_comb.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_25_dynamic_intensity_comb.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_25_static_intensity.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_26_dynamic_intensity_comb.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_26_static_intensity_comb.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_2_dynamic_intensity_comb.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_2_static_intensity_comb.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_45_dynamic_intensity_comb.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_45_static_intensity_comb.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_4_static_intensity_comb.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_5_dynamic_intensity.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_5_static_intensity.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_6_static_intensity_comb.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_7_static_intensity_comb.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_9_dynamic_intensity.dat
+  C:\Users\Rosie\Desktop\OpenFace-master\OpenFace-master\lib\local\FaceAnalyser\AU_predictors\svr_combined\AU_9_static_intensity.dat
+  复制了 66 个文件
