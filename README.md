@@ -28,7 +28,9 @@ The system is capable of performing a number of facial analysis tasks:
 
 ## Facial Animation
 
-![Facial animation]()
+![Facial animation](https://github.com/HanaRen/FacialAnimation_OpenFace/blob/master/videos/fa.jpg)
+![Facial animation1](https://github.com/HanaRen/FacialAnimation_OpenFace/blob/master/videos/fa1.jpg)
+![Facial animation2](https://github.com/HanaRen/FacialAnimation_OpenFace/blob/master/videos/fa2.jpg)
 
 
 
